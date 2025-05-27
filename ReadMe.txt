@@ -4,25 +4,22 @@ The application provides Cybersecurity tips when
 Setup 
 The greeting audio is placed in the Geeting Audio file titled>Cybersecuritychatbot .wav
 
-Usage instructions 
+Usage example
 When you run the code the audio will play and the ascii art will play 
 Then it will prompt for the users name 
-You can then ask the chatbot any of these questions 
-1."how are you"
-e.g respose = "I cant complain thanks for asking."
-2."what's your purpose"
-3."what can I ask you about"
-or ask it for the safety tips such as 
-Password safety by typing "password"
-Phishing safety by typing "phishing"
-e.g response = "What's Phishing? It's a type of cyberattack where scammers trick you into giving away personal information...
+Welcome to the CyberSecurity Assistance Chatbot!
+What is your name?
+:User  Siya
+Chatbot: Hey Siya! How can I help you today?
+You can ask about password safety, phishing, scams, or type 'exit' to quit.
 
-1. Never give passwords or bank details via email or any unverified links.
-2. Don’t click on suspicious or unverified links.
-3. Verify the sender by checking the email address carefully.
-"
-Link safety by typing "links"
-If theres an error and it says "I'm sorry, I don't understand. What Safety tips would you like to know?(phishing/passwords/links?
-links" you can just retry typing either phishing,passwords or links again
-To exit the application just type "exit"
+Siya: I'm worried about online scams.
+Chatbot: I completely understand your concerns about online security - it's natural to feel worried.
+Chatbot: The good news is that being informed and cautious already puts you ahead of most people!
+Chatbot: Let's start with one simple step that will immediately improve your security.
+Chatbot: What is your favorite topic?
+Siya: password
+The chatbot remembers the topic and asks you if you would like to know more about it (yes/no)
+if you say yes it will tell you a random tip 
+if no the conversation continous and you can ask something else
 
